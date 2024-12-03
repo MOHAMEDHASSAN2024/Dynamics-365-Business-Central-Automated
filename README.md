@@ -237,11 +237,7 @@ $appsFolderPath = "C:\apps"
 
 # تحديد أسماء التطبيقات يدويًا في هذه المساحة (مساحة مفتوحة لك لإضافة التطبيقات المطلوبة)
 $appNames = @(
-    "PDC_18",
-    "Shaheen Finance",
-    "Data Group By Month",
-    "Supply Chain",
-    "WHT",
+   
     "ALProject1",
     "OLEOReport",
     "Application8",
